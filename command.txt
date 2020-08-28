@@ -1,0 +1,7 @@
+python3 main.py --image images/parking_lot_1.png --data data/coordinates_1.yml --start-frame 400
+
+python main.py --image images/keputih.png --data data/coordinates_1.yml --video videos/keputih.mp4 --start-frame 100
+
+
+python3 main.py --image images/uji.png --data data/coordinates_1.yml --video videos/output.avi --start-frame 100
+
